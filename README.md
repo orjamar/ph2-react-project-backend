@@ -72,7 +72,3 @@ The React application will launch in your default web browser.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-Please replace `<repository-url>` with the actual URL of your project's repository. This `README.md` provides detailed instructions on how to set up and run your project, along with the project's features and technology stack.
