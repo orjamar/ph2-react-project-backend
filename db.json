@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "My favorite work",
+      "author": "Orlando Martinez"
+    },
+    {
+      "id": 2,
+      "title": "How to work and survive in Amazon",
+      "author": "Orlando M"
+    },
+    {
+      "title": "Test1",
+      "author": "Orlando M",
+      "id": 3
+    }
+  ]
+}
